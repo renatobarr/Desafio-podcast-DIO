@@ -45,4 +45,4 @@ Esse repositório foi criado única e exclusivamente para a disseminação do me
 > Não ultrapasse 5 minutos de duração.
 
 ### Link para o podcast
-> [link](https://github.com/renatobarr/Desafio-e-book/blob/main/e-book_desafio_DIO.pdf)
+> [link](https://github.com/renatobarr/Desafio-podcast-DIO/blob/main/ElevenLabs_2024-07-19T10_11_19_Charlie_pre_s50_sb75_se0_b_m2.mp3)
